@@ -54,7 +54,7 @@ MAHABHARATAQA/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/Screenshot 2025-10-12 085807.png" width="900">
+  <img src="assets/s.png" width="900">
 </p>
 
 
