@@ -50,8 +50,8 @@ MAHABHARATAQA/
 └── requirements.txt         
 
 ---
-
-# Screenshots
+'''
+## Screenshots
 
 ![Mahabharata GPT Screenshot](assets/s.png)
 
