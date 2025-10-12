@@ -54,7 +54,7 @@ MAHABHARATAQA/
 ## Screenshots
 
 ![Mahabharata GPT Screenshot](assets/s.png)
-
+'''
 ---
 # Installation
 
