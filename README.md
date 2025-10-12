@@ -17,10 +17,11 @@ A **Streamlit-based web app** that allows users to ask questions about the Mahab
 
 ## Project Structure
 
+ ```text
 MAHABHARATAQA/
-├── __pycache__/             (Python cache files)
-├── .venv/                   (Python virtual environment)
-├── mahabharata_texts/       (Directory containing the source text files, one for each Parva)
+├── __pycache__/             
+├── .venv/                   
+├── mahabharata_texts/       
 │   ├── 01 ADI PARVA.txt
 │   ├── 02 SABHA PARVA.txt
 │   ├── 03 VANA PARVA.txt
@@ -39,15 +40,14 @@ MAHABHARATAQA/
 │   ├── 16 Mausala-parva.txt
 │   ├── 17 Mahaprasthanika-parva.txt
 │   └── 18 Svargarohanika-parva.txt
-├── app.py                   (Main application file, likely the user interface or execution entry point)
-├── build_index.py           (Script for creating the search/retrieval index from the text files)
-├── chunks.pkl               (Serialized file, likely containing pre-processed text chunks or segments)
-├── mahabharata.index        (The generated search/retrieval index file)
-├── preprocess.py            (Script for cleaning, splitting, or preparing the text data)
-├── qa.py                    (Core script for handling the Question Answering logic)
-├── README.md                (Project documentation/instructions)
-└── requirements.txt         (List of required Python libraries and dependencies)
-
+├── app.py                   
+├── build_index.py           
+├── chunks.pkl               
+├── mahabharata.index        
+├── preprocess.py            
+├── qa.py                    
+├── README.md                
+└── requirements.txt         
 
 ---
 
