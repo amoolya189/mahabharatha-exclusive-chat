@@ -55,7 +55,7 @@ MAHABHARATAQA/
 
 ![Mahabharata GPT Screenshot](assets/s.png)
 
-
+---
 # Installation
 
 1. **Clone the repository:**
@@ -63,7 +63,7 @@ MAHABHARATAQA/
 ```bash
 git clone https://github.com/yourusername/MAHABHARATAQA.git
 cd MAHABHARATAQA
-
+---
 # Create a virtual environment (recommended):
 
 python -m venv .venv
