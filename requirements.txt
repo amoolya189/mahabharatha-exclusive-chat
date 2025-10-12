@@ -1,0 +1,27 @@
+# Web app
+streamlit>=1.25.0
+
+# OpenAI API for LLM-based answers
+openai>=0.27.0
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# HTTP requests
+requests>=2.32.0
+
+# Environment variable management (for API keys)
+python-dotenv>=1.0.0
+
+# For embeddings / vector search (if using sentence-transformers or similar)
+sentence-transformers>=2.2.2
+scikit-learn>=1.3.2
+faiss-cpu>=1.7.4.post2  # Only if you are using FAISS for vector search
+
+# Optional: text cleaning / NLP
+nltk>=3.9.0
+
+# Optional: PDF reading (if you process PDFs for QA)
+PyPDF2>=3.1.0
+pdfplumber>=0.9.0
