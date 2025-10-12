@@ -51,14 +51,12 @@ MAHABHARATAQA/
 
 ---
 
-## Screenshots
+# Screenshots
 
-<p align="center">
-  <img src="assets/s.png" width="900">
-</p>
+![Mahabharata GPT Screenshot](assets/s.png)
 
 
-## Installation
+# Installation
 
 1. **Clone the repository:**
 
@@ -66,24 +64,24 @@ MAHABHARATAQA/
 git clone https://github.com/yourusername/MAHABHARATAQA.git
 cd MAHABHARATAQA
 
-Create a virtual environment (recommended):
+# Create a virtual environment (recommended):
 
 python -m venv .venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 
 
-Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
 
-Set up environment variables (if using OpenAI API):
+# Set up environment variables (if using OpenAI API):
 
 Create a .env file in the root folder:
 
-GEMINI_API_KEY="your_gemini_api_key_here"
+# GEMINI_API_KEY="your_gemini_api_key_here"
 
-## Usage
+#Usage
 
 Run the Streamlit app:
 
