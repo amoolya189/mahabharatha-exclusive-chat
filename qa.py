@@ -19,7 +19,7 @@ with open("chunks.pkl", "rb") as f:
     chunks = pickle.load(f)
 
 # ✅ Configure Gemini API
-genai.configure(api_key="AIzaSyAMsjthTjWOjwpflzHwZbbrV_t6IGHGlcM")
+genai.configure(api_key="AIzaSyAR0wzcgktMSoFRjID0XvOO49saIMISG8E")
 
 # ======================
 # 2️⃣ Helper: Rephrase Queries
